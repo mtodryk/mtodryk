@@ -1,16 +1,37 @@
-## Hi there 👋
+# **Hi, I'm Max Todryk**  
 
-<!--
-**mtodryk/mtodryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **About Me**  
+_Second-year Computer Science student passionate about problem-solving, algorithm development, and software engineering. Currently seeking an internship to gain hands-on experience and expand my skills._  
 
-Here are some ideas to get you started:
+## **Skills**  
+### **Programming Languages**  
+C, Python, Java, JavaScript, x86 Assembly  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Web Development**  
+HTML, CSS, Django (Python), Node.js (JavaScript)  
+
+### **Databases**  
+SQL, PostgreSQL  
+
+### **Scripting & Automation**  
+Bash, Docker, CMake  
+
+### **Software Engineering Principles**  
+SOLID, REST Principles  
+
+### **Tools & Technologies**  
+LaTeX, Docker  
+
+### **Other**  
+Git, Unit Testing, Continuous Integration (CI)  
+
+## **Projects**  
+- 🔹 **[Emergency Management System (Java)](https://github.com/mtodryk/emergency-system-simulation)**  
+  _Simulates incident processing, dispatcher coordination, and real-time rescue operations using OOP principles._  
+
+- 🔹 **[Ecosystem Simulation (Python)](https://github.com/mtodryk/world-simulation)**  
+  _Turn-based ecosystem simulation with various organism behaviors, applying OOP and SOLID principles._  
+
+---  
+
+Feel free to check out my projects and connect with me!  
