@@ -1,6 +1,8 @@
-# **Hi, I'm Max Todryk**  
-_Second-year Computer Science student passionate about problem-solving, algorithm development, and software engineering. Currently seeking an internship to gain hands-on experience and expand my skills._  
-## Skills  
+_**Hi, I'm Max Todryk**_ 
+
+_I'm a second-year Computer Science student focused on problem-solving and software development. I'm eager to find an internship where I can apply my skills and gain hands-on experience in the field._  
+
+**Skills** 
 - **Programming Languages:** C, Python, Java, JavaScript, x86 Assembly  
 - **Web Development:** HTML, CSS, Django (Python), Node.js (JavaScript)  
 - **Databases:** SQL, PostgreSQL  
@@ -8,7 +10,8 @@ _Second-year Computer Science student passionate about problem-solving, algorith
 - **Software Engineering Principles:** SOLID, REST Principles  
 - **Tools & Technologies:** LaTeX, Docker  
 - **Other:** Git, Unit Testing, CI
-## **Projects**  
+  
+ **Projects**  
 - 🔹 **[Emergency Management System (Java)](https://github.com/mtodryk/emergency-system-simulation)**  
   _Simulates incident processing, dispatcher coordination, and real-time rescue operations using OOP principles._  
 
