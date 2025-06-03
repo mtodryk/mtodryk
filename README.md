@@ -18,6 +18,9 @@ _I'm a second-year Computer Science student focused on problem-solving and softw
 - 🔹 **[Ecosystem Simulation (Python)](https://github.com/mtodryk/world-simulation)**  
   _Turn-based ecosystem simulation with various organism behaviors, applying OOP and SOLID principles._  
 
+- 🔹 **[Insurance Agency Database System (PostgreSQL)](https://github.com/mtodryk/insurance-agency)**  
+  _A PostgreSQL-based database for managing insurance agents and the policies they handle._  
+
 ---  
 
 Feel free to check out my projects and connect with me!  
